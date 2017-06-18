@@ -1,7 +1,27 @@
 .App {
+  width: 960px;
+  margin: 0 auto;
+}
+.Container {
+  width: 90%;
+  margin: 0 auto;
+}
+.App h1 {
   text-align: center;
+  font-size: 80px;
+  margin-top: -5px;
+  margin-bottom: 60px;
 }
 
-.App h1 {
-  font-size: 300px;
+.Card {
+  width: 200px;
+  text-align: center;
+  margin: 10px auto;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.App h2 {
+  font-size: 40px;
+  margin-bottom: 0px;
 }
